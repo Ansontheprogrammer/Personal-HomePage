@@ -1,0 +1,29 @@
+.component-header{
+    text-align: center;
+    text-shadow: white;
+}
+.thumbnail{
+    text-align: center;
+    background-color: slategray;
+}
+
+.ArtistThumbnail {
+    display: block;
+    height: 200px;
+    width: 250px;
+    border: 5px;
+    border-width: 2px;
+    border-color: black;
+  }
+.header{
+    background-color: floralwhite
+}
+.popular{
+    color: white;
+    background-color: black;
+}
+.new{
+    color: rgb(65, 47, 65);
+    background-color: rgb(14, 14, 41);
+
+}
